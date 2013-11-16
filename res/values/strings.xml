@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MapsV2Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="android_gcm_api_key">AIzaSyBaSueV4bWkmk4Oi95c9jq5Z4St5XdHwf0</string>
+
+</resources>
